@@ -4,6 +4,7 @@ public class app{
 		system.out.println("The sum is;"+(a+b));
 		system.out.println("The sub is:"+(a-b));
 		system.out.println("The mul is:"+(a*b));
+		system.out.println("The div is:"+(a/b));
 	}
 }
 
