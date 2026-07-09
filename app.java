@@ -7,6 +7,7 @@ public class app{
 		System.out.println("The mul is:"+(a*b));
 		System.out.println("The div is:"+(a/b));
 		System.out.println("Thanks for using my application");
+		System.out.println("THIS IS YSAH");
 	}
 }
 
